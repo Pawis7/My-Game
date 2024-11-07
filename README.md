@@ -1,2 +1,2 @@
 # My-Game
-my first unity game
+Este es el instalador, pronto subire el juego completo con los archivos de unity, saludos.
