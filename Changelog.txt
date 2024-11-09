@@ -1,0 +1,22 @@
+Version Beta
+-Level 1.
+-Main interface.
+-Enemys and coins system.
+
+Version 1.0
+-Android Port.
+-Bug Fix.
+
+Versionn 1.1
+-Level 2
+
+
+Version 1.2
+-Continue Game System.
+-New Interface Buttom "Opciones" (Read Opciones)
+-Best Record On Main Screen,
+-Enemys logic Bug Fixed.
+
+"Opciones"
+-Delete Current Game "Borrar Partida"
+-Delete Best Records "Borrar Records"
